@@ -1,0 +1,15 @@
+{
+  "type": "ace_endium:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/end_city_treasure"
+    },
+    {
+      "chance": 0.05,
+      "condition": "minecraft:random_chance"
+
+    }
+  ],
+  "item": "ace_endium:endium_scrap"
+}

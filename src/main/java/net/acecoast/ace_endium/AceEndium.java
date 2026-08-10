@@ -4,6 +4,7 @@ import com.mojang.logging.LogUtils;
 import net.acecoast.ace_endium.block.ModBlocks;
 import net.acecoast.ace_endium.item.ModCreativeModeTabs;
 import net.acecoast.ace_endium.item.ModItems;
+import net.acecoast.ace_endium.loot.ModLootModifiers;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -30,6 +31,8 @@ public class AceEndium {
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+
+        ModLootModifiers.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
