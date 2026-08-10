@@ -1,0 +1,21 @@
+{
+  "item.ace_endium.endium_ingot": "Endium Ingot",
+  "item.ace_endium.endium_scrap": "Endium Scrap",
+  "item.ace_endium.endium_upgrade_smithing_template": "Endium Upgrade Smithing Template",
+
+  "item.ace_endium.endium_sword": "Endium Sword",
+  "item.ace_endium.endium_pickaxe": "Endium Pickaxe",
+  "item.ace_endium.endium_axe": "Endium Axe",
+  "item.ace_endium.endium_shovel": "Endium Shovel",
+  "item.ace_endium.endium_hoe": "Endium Hoe",
+
+  "item.ace_endium.endium_helmet": "Endium Helmet",
+  "item.ace_endium.endium_chestplate": "Endium Chestplate",
+  "item.ace_endium.endium_leggings": "Endium Leggings",
+  "item.ace_endium.endium_boots": "Endium Boots",
+
+  "block.ace_endium.endium_block": "Block of Endium",
+  "block.ace_endium.cosmic_debris": "Cosmic Debris",
+
+  "creativetab.endium_tab": "Endium"
+}

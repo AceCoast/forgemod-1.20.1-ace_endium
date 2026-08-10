@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 2.5,
+  "ingredient": {
+    "item": "ace_endium:cosmic_debris"
+  },
+  "result": "ace_endium:endium_scrap"
+}

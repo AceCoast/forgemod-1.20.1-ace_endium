@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "":{
+      "model": "ace_endium:block/endium_block"
+    }
+  }
+}

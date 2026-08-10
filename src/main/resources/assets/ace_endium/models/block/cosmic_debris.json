@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "ace_endium:block/cosmic_debris_top",
+    "side": "ace_endium:block/cosmic_debris_side"
+  }
+}

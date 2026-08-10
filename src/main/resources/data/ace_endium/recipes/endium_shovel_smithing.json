@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "ace_endium:endium_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "result": {
+    "item": "ace_endium:endium_shovel"
+  },
+  "template": {
+    "item": "ace_endium:endium_upgrade_smithing_template"
+  }
+}
