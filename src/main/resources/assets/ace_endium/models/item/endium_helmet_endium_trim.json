@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ace_endium:item/endium_helmet",
+    "layer1": "ace_endium:trims/items/helmet_trim_endium"
+  }
+}

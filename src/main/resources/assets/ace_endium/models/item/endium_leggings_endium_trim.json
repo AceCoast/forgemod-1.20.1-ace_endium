@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ace_endium:item/endium_leggings",
+    "layer1": "ace_endium:trims/items/leggings_trim_endium"
+  }
+}

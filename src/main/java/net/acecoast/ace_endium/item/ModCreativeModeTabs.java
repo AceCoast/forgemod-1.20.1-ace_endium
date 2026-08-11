@@ -27,6 +27,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.ENDIUM_UPGRADE_SMITHING_TEMPLATE.get());
 
                         pOutput.accept(Items.DIAMOND);
+                        pOutput.accept(Items.NETHERITE_UPGRADE_SMITHING_TEMPLATE);
 
                         pOutput.accept(ModItems.ENDIUM_SWORD.get());
                         pOutput.accept(ModItems.ENDIUM_PICKAXE.get());

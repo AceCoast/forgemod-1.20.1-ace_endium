@@ -1,0 +1,9 @@
+{
+  "asset_name": "endium",
+  "description": {
+    "color": "#338F79",
+    "translate": "Endium Material"
+  },
+  "ingredient": "ace_endium:endium_ingot",
+  "item_model_index": 0.5
+}

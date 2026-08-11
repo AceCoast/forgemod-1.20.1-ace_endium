@@ -10,11 +10,12 @@ import net.minecraftforge.registries.RegistryObject;
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, AceEndium.MOD_ID);
-// Basic Items
+// Items
     public static final RegistryObject<Item> ENDIUM_INGOT = ITEMS.register("endium_ingot",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> ENDIUM_SCRAP = ITEMS.register("endium_scrap",
             () -> new Item(new Item.Properties()));
+// Smithing Templates (cba to do the actual code)
     public static final RegistryObject<Item> ENDIUM_UPGRADE_SMITHING_TEMPLATE = ITEMS.register("endium_upgrade_smithing_template",
             () -> new Item(new Item.Properties()));
 // Tools

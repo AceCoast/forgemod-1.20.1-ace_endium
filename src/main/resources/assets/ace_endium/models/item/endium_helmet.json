@@ -2,6 +2,12 @@
   "parent": "minecraft:item/generated",
   "overrides": [
     {
+      "model": "ace_endium:item/endium_helmet_endium_trim",
+      "predicate": {
+        "ace_endium:trim_type": 0.5
+      }
+    },
+    {
       "model": "ace_endium:item/endium_helmet_quartz_trim",
       "predicate": {
         "minecraft:trim_type": 0.1
