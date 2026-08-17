@@ -17,5 +17,10 @@
   "block.ace_endium.endium_block": "Block of Endium",
   "block.ace_endium.cosmic_debris": "Cosmic Debris",
 
-  "creativetab.endium_tab": "Endium"
+  "creativetab.endium_tab": "Endium",
+
+  "advancements.cover_me_in_sky_metal.title": "Cover Me In Sky Metal",
+  "advancements.cover_me_in_sky_metal.descr": "Obtain a full set of Endium armor",
+  "advancements.fallen_treasure.title": "Fallen Treasure",
+  "advancements.fallen_treasure.descr": "Obtain Cosmic Debris"
 }
